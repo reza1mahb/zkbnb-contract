@@ -18,7 +18,7 @@ module.exports = {
             accounts: [
                 '906d5dc5a8ec5050a21987278d42af90852724df53a576e66057990ee48ac269'
             ],
-            timeout: 100000,
+            timeout: 987700,
         },
         BSCTestnet: {
             url: "https://data-seed-prebsc-1-s1.binance.org:8545",
